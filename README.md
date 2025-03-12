@@ -27,7 +27,7 @@ This script extracts and compares follower and following data from JSON files to
 ## Installation
 Clone the repository:
 ```bash
-git clone https://github.com/hazemne1/instagram-follower-checker.git
+git clone https://github.com/h4z3m-dev/instagram-follower-checker.git
 ```
 Navigate to the project directory:
 ```bash
