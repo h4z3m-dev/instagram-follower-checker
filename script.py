@@ -33,3 +33,5 @@ def ext2(input_file, output_file):
 ext("following.json", "following after extracting.txt")
 ext("followers_1.json", "followers after extracting.txt")
 ext2("following after extracting.txt", "followers after extracting.txt")
+print("done")
+print("This script was developed by Hazem")
